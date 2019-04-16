@@ -1,7 +1,12 @@
 # Instructions 💤💤
 ``` git clone https://github.com/Mooninghnk/REQW ```
+
 ```  npm install ```
+
 ``` dependencies: [axios]```
+
+
+
 
 # Run it ⚙️⚙️⚙️⚙️
 <h3>POST</h3>
