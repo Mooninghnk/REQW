@@ -4,10 +4,7 @@
 ```  npm install ```
 
 ``` dependencies: [axios]```
-
-
-
-
+<br>
 # Run it ⚙️⚙️⚙️⚙️
 <h3>POST</h3>
 
