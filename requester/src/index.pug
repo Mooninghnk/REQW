@@ -2,19 +2,25 @@ doctype html
 head
     title Http REQW
 body
-    h1 test
+    h1 Reqwester
     select(class="reqChoise")
         option(value="post") POST
         option(value="get") GET
     .get(style="display: none;")
         p simple get request
         input(type="text" class="url")
+        br
+        br
         button(class="send") get
     .post(style="display: none;")
         p simple post request
         input(type="text" class="url")
+        br
+        br
         button(class="post") post
-    .xx(style="text-align: center; width: 300px; height: 300px; background: black; color: green;")
+    br
+    br
+    .xx(style="text-align: center; width: 300px; height: 300px;")
         p(class="resp" style="display: none")
     script(src="reqw.js")
     link(rel = "stylesheet" href="./css.css")

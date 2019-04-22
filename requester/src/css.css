@@ -1,0 +1,32 @@
+body {
+    background: #282a36;
+    color: white;
+    text-align:center;
+}
+
+input {
+    border: none;
+    text-align: center;
+    width: 500px;
+    height: 30px;
+    font-size: 17px;
+    background: #5671afd4;
+    border-radius: 5px;
+}
+.xx {
+    margin: auto;
+    border-radius: 10px;
+    background: #1c2638;
+}
+button {
+    border: none;
+    background: #3a43b1;
+    width: 100px;
+    height: 25px;
+}
+select {
+    color: white;
+    border-radius: 1px;
+    border: none;
+    background: #719c96;
+}
